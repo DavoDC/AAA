@@ -1,5 +1,7 @@
 # Alien Aztec Adventure
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31WKOCN)
+
 A 2D Java adventure game set in an alien-infested Aztec world. Navigate environments, fight enemies, and explore levels in this side-scrolling action game.
 
 ## Screenshots
