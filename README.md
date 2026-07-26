@@ -6,11 +6,11 @@ A 2D Java adventure game set in an alien-infested Aztec world. Navigate environm
 
 ## Screenshots
 
-![Gameplay](https://github.com/DavoDC/AAA/blob/master/Executable/Screenshot1.png "Gameplay Screenshot")
-![Gameplay 2](https://github.com/DavoDC/AAA/blob/master/Executable/Screenshot2.png "Gameplay Screenshot")
+![Gameplay](https://github.com/DavoDC/AAA/blob/main/Executable/Screenshot1.png "Gameplay Screenshot")
+![Gameplay 2](https://github.com/DavoDC/AAA/blob/main/Executable/Screenshot2.png "Gameplay Screenshot")
 
 ### Early development (BlueJ IDE)
-![BlueJ](https://github.com/DavoDC/AAA/blob/master/Executable/BlueJScreenshot.png "BlueJ Screenshot")
+![BlueJ](https://github.com/DavoDC/AAA/blob/main/Executable/BlueJScreenshot.png "BlueJ Screenshot")
 
 ## Running
 
